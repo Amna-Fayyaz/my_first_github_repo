@@ -1,0 +1,5 @@
+*.xls
+.httr-oauth
+.DS_Store
+.config
+data/*
